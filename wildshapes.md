@@ -410,3 +410,81 @@ TBD
 > ***Beak.*** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 7 (2d4 + 2) piercing damage.
 >
 > ***Talons.*** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 9 (2d6 + 2) slashing damage.
+
+# CR2
+
+>## Giant Constrictor Snake
+>*Huge beast, unaligned*
+>___
+>- **Armor Class** 12
+>- **Hit Points** 60 (8d12 + 8)
+>- **Speed** 30 ft., swim 30 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|19 (+4)|14 (+2)|12 (+1)|1 (-5)|10 (+0)|3 (-4)|
+>___
+>- **Skills** Perception +2
+>- **Senses** blindsight 10 ft., passive Perception 12
+>- **Languages** —
+>- **Challenge** 2 (450 XP)
+>- **Proficiency Bonus** +2
+>___
+>### Actions
+>***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 10 ft., one creature. *Hit:* 11 (2d6 + 4) piercing damage.  
+>
+>***Constrict.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one creature. *Hit:* 13 (2d8 + 4) bludgeoning damage, and the target is grappled (escape DC 16). Until this grapple ends, the creature is restrained, and the snake can't constrict another target.
+
+>## Saber-Toothed Tiger
+>*Large beast, unaligned*
+>___
+>- **Armor Class** 12
+>- **Hit Points** 52 (7d10 + 14)
+>- **Speed** 40 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|18 (+4)|14 (+2)|15 (+2)|3 (-4)|12 (+1)|8 (-1)|
+>___
+>- **Skills** Perception +3, Stealth +6
+>- **Senses** passive Perception 13
+>- **Languages** —
+>- **Challenge** 2 (450 XP)
+>- **Proficiency Bonus** +2
+>___
+>***Keen Smell.*** The tiger has advantage on Wisdom (Perception) checks that rely on smell.  
+>
+>***Pounce.*** If the tiger moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the tiger can make one bite attack against it as a bonus action.  
+>
+>### Actions
+>***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 10 (1d10 + 5) piercing damage.  
+>
+>***Claw.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 12 (2d6 + 5) slashing damage.
+
+>## Giant Elk
+>*Huge beast, unaligned*
+>___
+>- **Armor Class** 14 (natural armor)
+>- **Hit Points** 42 (5d12 + 10)
+>- **Speed** 60 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|19 (+4)|16 (+3)|14 (+2)|7 (-2)|14 (+2)|10 (+0)|
+>___
+>- **Skills** Perception +4
+>- **Senses** passive Perception 14
+>- **Languages** Giant Elk, understands Common, Elvish, Sylvan but can't speak them
+>- **Challenge** 2 (450 XP)
+>- **Proficiency Bonus** +2
+>___
+>***Charge.*** If the elk moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked prone.  
+>
+>### Actions
+>***Ram.*** *Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:* 11 (2d6 + 4) bludgeoning damage.  
+>
+>***Hooves.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one prone creature. *Hit:* 22 (4d8 + 4) bludgeoning damage.
+
+## Giant Elk
+
+The majestic giant elk is rare to the point that its appearance is often taken as a foreshadowing of an important event, such as the birth of a king. Legends tell of gods that take the form of giant elk when visiting the Material Plane. Many cultures therefore believe that to hunt these creatures is to invite divine wrath.
